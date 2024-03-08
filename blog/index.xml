@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DfocusGPT – Blog</title>
+    <title>DfocusGPT – 블로그</title>
     <link>//localhost:1313/blog/</link>
-    <description>Recent content in Blog on DfocusGPT</description>
+    <description>Recent content in 블로그 on DfocusGPT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
