@@ -1,6 +1,7 @@
 ---
-title: DfocusGPT 기본 흐름도
+title: DfocusGPT data 흐름도
 date: 2024-01-03
+weight: 3
 description: >
   DfocusGPT 질문과 답변의 과정에 대한 기본 흐름입니다.
 ---

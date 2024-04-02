@@ -1,6 +1,7 @@
 ---
 title: LLM 역사와 인물
 date: 2024-01-03
+weight: 2
 description: >
   LLM 기술의 역사와 인물에 대한 간단한 정보입니다.
 ---
