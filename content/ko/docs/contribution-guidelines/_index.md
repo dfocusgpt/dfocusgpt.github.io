@@ -5,9 +5,14 @@ description: DfocusGPT에 대하여 문의하기
 ---
 
 {{% pageinfo %}}
-Dfocus에 대한 문의는 [여기](https://www.dfocus.net/contact_service)에서 하세요.
+Dfocus 회사에 대한 문의는 [여기](https://www.dfocus.net/contact_service)에서 하세요.
 
-DfocusGPT에 대한 문의는 gptsupport@dfocus.net 으로 메일을 보내 주세요.
+DfocusGPT에 대한 일반적인 문의는 gptsupport@dfocus.net 으로 메일을 보내 주세요.
+
+DfocusGPT 관리자 서비스 사용 중의 문의는 [DfocusGPT 서비스](https://gpt.dfocus.net/) 내의 문의하기 메뉴을 이용하세요.
+
+구독 서비스 상품에 대한 문의는 [Shop](https://dfocusgpt.dfocus.net/)에서 하세요.
+
 {{% /pageinfo %}}
 
 ## 게시판 
@@ -16,7 +21,7 @@ Dfocus SRM 서비스에 가입하여 주세요 ( 협의 중 )
 
 ## 이슈 리포팅
 
-이슈 리포팅 사이트 준비 중
+이슈 리포팅 사이트 ( 협의 중 )
 
 ## 기타 유용한 정보들
 

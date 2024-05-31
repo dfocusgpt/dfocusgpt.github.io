@@ -10,4 +10,9 @@ description: >
 
 ![딥러닝의 역사](/blog/news/image.png)
 
+----------------
+# 딥러닝의 역사에 대한 유튜브 해설입니다.
 
+<iframe width="1000" height="700" src="https://www.youtube.com/embed/fGI8_oTjKsU?si=FrpS4MNfIDccnQJd&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+----------------
