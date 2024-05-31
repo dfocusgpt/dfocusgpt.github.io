@@ -6,7 +6,9 @@ title: DfocusGPT
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://www.dfocus.net">Dfocus 챗봇 체험<i class="fab ms-2 "></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://www.dfocus.net">Dfocus 홈페이지 봇<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
 </a>
 
 ----------------
@@ -21,7 +23,7 @@ title: DfocusGPT
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 하는 당신의 건강에 새로운 희망입니다. **DfocusGPT** 를 둘러 보세요!.
+DfocusGPT는 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 하는 당신의 건강에 새로운 희망입니다. 단순한 문의에 대한 답변은 챗봇에게 양보하세요. **DfocusGPT** 를 둘러 보세요!.
 
 {{% /blocks/lead %}}
 
