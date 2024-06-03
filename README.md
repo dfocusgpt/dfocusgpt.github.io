@@ -1,6 +1,6 @@
 
 
-hugo servr 
+hugo server --disableFastRender
 
 ------------------------------------------
 
