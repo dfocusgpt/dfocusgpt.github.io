@@ -1,5 +1,4 @@
 
-
 hugo server --disableFastRender
 
 ------------------------------------------
@@ -21,17 +20,17 @@ https://example.docsy.dev/
 
 Docsy user guide: https://docsy.dev/docs
 
-alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
+alternate dashboard : https://app.netlify.com/sites/goldydocs/deploys
 
-deploys]: https://app.netlify.com/sites/docsy-example/deploys
+deploys : https://app.netlify.com/sites/docsy-example/deploys
 
-Docsy]: https://github.com/google/docsy
+Docsy : https://github.com/google/docsy
 
-example.docsy.dev]: https://example.docsy.dev
+example.docsy.dev : https://example.docsy.dev
 
-Hugo theme module]: https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
+Hugo theme module : https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
 
-Netlify]: https://netlify.com
+Netlify : https://netlify.com
 
-Docker Compose documentation]: https://docs.docker.com/compose/gettingstarted/
+Docker Compose documentation : https://docs.docker.com/compose/gettingstarted/
 
