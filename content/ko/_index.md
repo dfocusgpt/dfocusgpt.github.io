@@ -2,13 +2,22 @@
 title: DfocusGPT
 ---
 
-{{< blocks/cover title="DfocusGPT: 바로 사용하는 상담봇!" image_anchor="top" height="full" >}}
+
+{{< blocks/cover title="RAG 상담봇을 구독 서비스로 제공!" image_anchor="top" height="full" >}}
+
+
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://www.dfocus.net">Dfocus 홈페이지 봇<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT 기업봇 사례<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://iquest.co.kr">ERP 기업봇 사례<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
+</a>
+
+<a href="http://pf.kakao.com/_xjxgIxbn/chat">
+  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
 </a>
 
 ----------------
@@ -65,6 +74,12 @@ DfocusGPT 앱 - 준비중!
 {{% blocks/feature icon="fab fa-youtube" title="디포커스 챗봇 유튜브!"
     url="https://www.youtube.com/@DfocusGPT" %}}
 디포커스 챗봇 유튜브를 살펴 보세요.
+{{% /blocks/feature %}}
+
+{{% blocks/feature title="디포커스 챗봇 카카오톡 채널 오픈!" url="http://pf.kakao.com/_xjxgIxbn/chat" %}}
+<a href="http://pf.kakao.com/_xjxgIxbn/chat">
+  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
+</a> 디포커스 챗봇 카카오톡 채팅 연결  
 {{% /blocks/feature %}}
 
 
