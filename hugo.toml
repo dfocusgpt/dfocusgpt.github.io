@@ -129,7 +129,7 @@ prism_syntax_highlighting = false
 
 [params.copyright]
   authors = "Dfocus | "
-  from_year = 2024
+  from_year = 2001
 
 # User interface configuration
 [params.ui]
