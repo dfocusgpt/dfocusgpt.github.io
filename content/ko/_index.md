@@ -2,6 +2,13 @@
 title: DfocusGPT
 ---
 
+{{< rawhtml >}}
+<script>
+    window.plugin_keys = 'fecad31a-81b7-4a82-bf90-0f38005d2519';
+    window.requestUrl = 'https://testgpt.dfocus.net';
+    </script>
+    <script src="https://testgpt.dfocus.net/static/remote/js/dfocus-chatbot-iframe.js"></script>
+{{< /rawhtml >}}
 
 {{< blocks/cover title="RAG 상담봇을 구독 서비스로 제공!" image_anchor="top" height="full" >}}
 
