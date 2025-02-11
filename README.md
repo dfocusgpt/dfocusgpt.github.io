@@ -1,7 +1,7 @@
 
 hugo server --disableFastRender
 
-------------------------------------------
+-------------------------------------------
 
 register botmanual.dfocus.net 
 
