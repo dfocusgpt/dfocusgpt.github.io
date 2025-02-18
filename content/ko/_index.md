@@ -29,9 +29,11 @@ title: DfocusGPT
  -->
 ----------------
 
+<iframe width="1200" height="700" src="https://www.youtube.com/embed/Dy9Ff2lSHo8?si=XR18xov-L-WxMXqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!-- <iframe width="1000" height="700" src="https://www.youtube.com/embed/DOLJ-urTp94?si=yZqG3qrT7wSWR3T2&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1&playlist=DOLJ-urTp94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
-<iframe width="1200" height="700" src="https://www.youtube.com/embed/5TI8xB7ti40?si=wY7lkeQ9Oir_zJWY&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="1200" height="700" src="https://www.youtube.com/embed/5TI8xB7ti40?si=wY7lkeQ9Oir_zJWY&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ----------------
 
