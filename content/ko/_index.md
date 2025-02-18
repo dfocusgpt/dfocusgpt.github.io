@@ -29,7 +29,10 @@ title: DfocusGPT
  -->
 ----------------
 
-<iframe width="1200" height="700" src="https://www.youtube.com/embed/Dy9Ff2lSHo8?autoplay=1&mute=1&loop=1&si=XR18xov-L-WxMXqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- 얼마에요 erp 챗봇 -->
+{{< youtube Dy9Ff2lSHo8 >}}
+
+<!-- <iframe width="1200" height="700" src="https://www.youtube.com/embed/Dy9Ff2lSHo8?autoplay=1&mute=1&loop=1&si=XR18xov-L-WxMXqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 <!-- <iframe width="1000" height="700" src="https://www.youtube.com/embed/DOLJ-urTp94?si=yZqG3qrT7wSWR3T2&amp;controls=0&autoplay=1&mute=1&controls=0&loop=1&playlist=DOLJ-urTp94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
@@ -37,13 +40,13 @@ title: DfocusGPT
 
 ----------------
 
-<p class="lead mt-5"> 바로 시작 &mdash; 클라우드에서 !</p>
+<p class="lead mt-5"> 바로 시작하세요 &mdash; 클라우드 서비스로!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
 {{% blocks/lead color="primary" %}}
-DfocusGPT는 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 하는 당신의 건강에 새로운 희망입니다. 단순한 문의에 대한 답변은 챗봇에게 넘기세요. **DfocusGPT** 는 바로 이용할 수 있습니다!.
+DfocusGPT 챗봇은 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 하는 당신의 정신 건강에 새로운 희망입니다. 단순하고 반복되는 문의에 대한 답변은 챗봇에게 넘기세요. 간편하게 설정하는 **DfocusGPT** 는 바로 이용할 수 있습니다!.
 
 {{% /blocks/lead %}}
 
@@ -51,15 +54,13 @@ DfocusGPT는 힘들고 나아지지 않는 반복된 업무에 지쳐가기만 �
 
 {{% blocks/feature icon="fa-lightbulb" title="노 코드 챗봇!" %}}
 DfocusGPT는 새로운 코딩 작업이나 전문 지식이 필요하지 않습니다. 
-업무 매뉴얼 담당자가 인공지능 상담봇의 지식 정보의 관리를 담당합니다.
+업무 매뉴얼 담당자가 그대로 인공지능 상담봇의 지식 정보 관리를 담당합니다. 블로그 관리보다 더 쉬운 지식 관리를 제공하는 **DfocusGPT**입니다.
 
 {{% /blocks/feature %}}
-
 
 {{% blocks/feature icon="fa-solid fa-feather" title="상담 매뉴얼의 관리!" url="https://botmanual.dfocus.net/docs/" %}}
-블로그 관리하듯이 매뉴얼만 관리하세요! 이미지 붙여 넣기와 일괄 업로드도 지원합니다.
+블로그 관리보다 쉬운 매뉴얼 관리 기능을 제공합니다. 이미지를 포함한 웹페이지 붙여 넣기와 일괄 업로드도 지원합니다.
 {{% /blocks/feature %}}
-
 
 {{% blocks/feature icon="fab fa-facebook" title="페이스북 정보!" url="https://www.facebook.com/DfocusSns/" %}}
 디포커스 페이스북에서 다른 솔루션 정보도 살펴 보세요.
@@ -78,21 +79,27 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식이 필요하지 않습�
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title=" **AppStore** 다운로드 " %}}
+<!-- {{% blocks/feature icon="fab fa-app-store-ios" title=" **AppStore** 다운로드 " %}}
 DfocusGPT 앱 - 준비중!
-{{% /blocks/feature %}}
+{{% /blocks/feature %}} -->
 
 {{% blocks/feature icon="fab fa-youtube" title="디포커스 챗봇 유튜브!"
     url="https://www.youtube.com/@DfocusGPT" %}}
-디포커스 챗봇 유튜브를 살펴 보세요.
+디포커스 챗봇 유튜브에서 RAG 챗봇의 기본 개념부터 DfocusGPT 사용 방법과 사례까지 확인하세요!
 {{% /blocks/feature %}}
 
-{{% blocks/feature title="디포커스 챗봇 카카오톡 채널 오픈!" url="http://pf.kakao.com/_xjxgIxbn/chat" %}}
-<a href="http://pf.kakao.com/_xjxgIxbn/chat">
+{{% blocks/feature title="디포커스 챗봇 카카오톡 채널 오픈!" url="http://pf.kakao.com/_xjxgIxbn" %}}
+<a href="http://pf.kakao.com/_xjxgIxbn">
   <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
-</a> 카톡으로 문의하세요  
+</a> 디포커스 챗봇 공식 채널입니다  
 {{% /blocks/feature %}}
 
+{{% blocks/feature  title="카카오톡 채널 상담 바로 연결" %}}
+<img src="qr-chat.png" alt="카카오톡 챗봇 QR" width="200" height="200">
+
+<!-- ![카카오톡 챗봇 QR](qr-chat.png) -->
+
+{{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
