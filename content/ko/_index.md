@@ -4,10 +4,11 @@ title: DfocusGPT
 
 {{< rawhtml >}}
 <script>
-    window.plugin_keys = 'fecad31a-81b7-4a82-bf90-0f38005d2519';
-    window.requestUrl = 'https://testgpt.dfocus.net';
-    </script>
-    <script src="https://testgpt.dfocus.net/static/remote/js/dfocus-chatbot-iframe.js"></script>
+window.plugin_keys = 'fecad31a-81b7-4a82-bf90-0f38005d2519';
+window.requestUrl = 'https://testgpt.dfocus.net';
+</script>
+<script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
+    
 {{< /rawhtml >}}
 
 {{< blocks/cover title="RAG 상담봇을 구독으로 이용!" image_anchor="top" height="full" >}}
