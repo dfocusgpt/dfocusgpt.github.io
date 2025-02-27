@@ -3,6 +3,17 @@ title: DfocusGPT
 ---
 
 {{< rawhtml >}}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7SKBGVZ04X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7SKBGVZ04X');
+</script>
+
 <script>
 window.plugin_keys = 'fecad31a-81b7-4a82-bf90-0f38005d2519';
 window.requestUrl = 'https://testgpt.dfocus.net';
