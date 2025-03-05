@@ -3,7 +3,7 @@ title: 0.9 - 첫번째 릴리즈 버전
 date: 2024-01-03
 description: >
   DfocusGPT 챗봇의 버전 0.9의 릴리즈 정보입니다.
-
+weight: 10
 ---
 
 > DfocusGPT 0.9 버전은 다음의 기능을 제공합니다.

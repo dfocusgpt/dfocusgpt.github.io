@@ -1,4 +1,4 @@
 ---
 title: 릴리즈 정보
-weight: 20
+weight: 10
 ---

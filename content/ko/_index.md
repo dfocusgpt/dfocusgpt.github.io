@@ -22,8 +22,23 @@ window.requestUrl = 'https://testgpt.dfocus.net';
     
 {{< /rawhtml >}}
 
-{{< blocks/cover title="RAG 상담봇을 구독으로 이용!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="RAG 상담봇을 구독!" image_anchor="top" >}}
 
+<div class="container-fluid py-5 text-center">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <p class="lead text-white">
+                더 이상 반복된 업무에 지쳐가기만 하는 당신의 정신 건강을 방치하지 마세요.
+            </p>
+            <p class="lead text-white">
+                이제 단순하고 반복되는 문의에 대한 답변은 챗봇에게 넘기세요.
+            </p>
+            <p class="lead text-white">
+                누구나 간편하게 사용하는 <strong>DfocusGPT</strong>를 구독으로 바로 이용하세요!
+            </p>
+        </div>
+    </div>
+</div>
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -35,10 +50,6 @@ window.requestUrl = 'https://testgpt.dfocus.net';
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
 </a>
 
-<!-- <a href="http://pf.kakao.com/_xjxgIxbn/chat">
-  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
-</a>
- -->
 ----------------
 
 <!-- 얼마에요 erp 챗봇 -->
