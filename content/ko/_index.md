@@ -28,13 +28,13 @@ window.requestUrl = 'https://testgpt.dfocus.net';
     <div class="row">
         <div class="col-lg-8 mx-auto">
             <p class="lead text-white">
-                더 이상 반복된 업무에 지쳐가기만 하는 당신의 정신 건강을 방치하지 마세요.
+                여전히 반복된 업무에 지쳐가기만 하는 당신의 정신 건강을 방치하고 있나요?
             </p>
             <p class="lead text-white">
-                이제 단순하고 반복되는 문의에 대한 답변은 챗봇에게 넘기세요.
+                아직도 무한 대기로 지친 고객에게 인공지능 챗봇의 신속한 답변을 제공하지 않나요?
             </p>
             <p class="lead text-white">
-                누구나 간편하게 사용하는 <strong>DfocusGPT</strong>를 구독으로 바로 이용하세요!
+                누구나 간편하게 이용하는 <strong>DfocusGPT</strong> 구독서비스가 있습니다.
             </p>
         </div>
     </div>
