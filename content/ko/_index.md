@@ -16,7 +16,7 @@ title: DfocusGPT
 
 <script>
 window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
-window.requestUrl = 'https://testgpt.dfocus.net';
+window.requestUrl = 'https://gpt.dfocus.net';
 </script>
 <script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
     
