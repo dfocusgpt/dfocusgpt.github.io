@@ -60,7 +60,7 @@ window.requestUrl = 'https://gpt.dfocus.net';
 </script>
 
 <a id="chat-channel-button" href="javascript:chatChannel()">
-  <img src="/static/kakaotalk_sharing_btn_medium_ov.png"
+  <img src="image.png"
     alt="카카오톡 채널 채팅하기 버튼" />
 </a>
 
