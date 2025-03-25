@@ -19,7 +19,7 @@ window.plugin_keys = 'fecad31a-81b7-4a82-bf90-0f38005d2519';
 window.requestUrl = 'https://testgpt.dfocus.net';
 </script>
 <script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
-    
+
 {{< /rawhtml >}}
 
 {{< blocks/cover title="RAG 상담봇을 구독!" image_anchor="top" >}}
@@ -43,13 +43,37 @@ window.requestUrl = 'https://testgpt.dfocus.net';
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT 기업봇 사례<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT 기업봇<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://iquest.co.kr">ERP 기업봇 사례<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://iquest.co.kr">ERP 상담<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
 </a>
 
+
+{{< rawhtml >}}
+
+<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.4/kakao.min.js"
+  integrity="sha384-DKYJZ8NLiK8MN4/C5P2dtSmLQ4KwPaoqAfyA/DfmEc1VDxu4yyC7wy6K1Hs90nka" crossorigin="anonymous"></script>
+<script>
+  Kakao.init('e8966f18d6f93a8ef4adff2a7c6cf6b3'); // 사용하려는 앱의 JavaScript 키 입력
+</script>
+
+<a id="chat-channel-button" href="javascript:chatChannel()">
+  <img src="/static/kakaotalk_sharing_btn_medium_ov.png"
+    alt="카카오톡 채널 채팅하기 버튼" />
+</a>
+
+<script>
+  function chatChannel() {
+    Kakao.Channel.chat({
+      channelPublicId: '_xjxgIxbn',
+    });
+  }
+
+</script>
+
+{{< /rawhtml >}}
 ----------------
 
 <!-- 얼마에요 erp 챗봇 -->
@@ -89,9 +113,7 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식이 필요하지 않습�
 디포커스 페이스북에서 다른 솔루션 정보도 살펴 보세요.
 {{% /blocks/feature %}}
 
-
 {{% /blocks/section %}}
-
 
 {{% blocks/section %}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
