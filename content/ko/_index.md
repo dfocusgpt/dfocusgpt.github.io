@@ -77,7 +77,7 @@ window.requestUrl = 'https://gpt.dfocus.net';
 ----------------
 
 <!-- 얼마에요 erp 챗봇 -->
-{{< youtube Dy9Ff2lSHo8 >}}
+{{< youtube rTwXJ2MqcRY >}}
 
 <!-- <iframe width="1200" height="700" src="https://www.youtube.com/embed/Dy9Ff2lSHo8?autoplay=1&mute=1&loop=1&si=XR18xov-L-WxMXqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
