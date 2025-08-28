@@ -2,7 +2,7 @@ baseURL = "/"
 title = "DfocusGPT"
 
 # Language settings
-contentDir = "content/ko"
+contentDir = "content"
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
@@ -54,14 +54,25 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.ko]
-languageName ="Korean"
-contentDir = "content/ko"
-[languages.ko.params]
-title = "DfocusGPT"
-description = "DfocusGPT 매뉴얼 페이지"
-time_format_default = "2006-02-01"
-time_format_blog = "2006-01-02"
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+    [languages.en.params]
+      title = "DfocusGPT"
+      description = "DfocusGPT manual page"
+      time_format_default = "2006-01-02"
+      time_format_blog = "2006-01-02"
+
+  [languages.ko]
+    languageName = "Korean"
+    contentDir = "content/ko"
+    weight = 2
+    [languages.ko.params]
+      title = "DfocusGPT"
+      description = "DfocusGPT 매뉴얼 페이지"
+      time_format_default = "2006-02-01"
+      time_format_blog = "2006-01-02"
 
 [markup]
   [markup.goldmark]
