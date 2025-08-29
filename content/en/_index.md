@@ -37,7 +37,7 @@ title: DfocusGPT
   </div>
   </div>
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/en/docs/">
   Docs <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT Company Bot<i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -99,7 +99,7 @@ Check out more solution updates on our Facebook page.
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/en/docs/">
   Click here for the DfocusGPT manual<i class="fab ms-2 "></i>
 </a>
 {{% /blocks/section %}}
