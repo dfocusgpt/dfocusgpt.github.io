@@ -2,4 +2,125 @@
 title: DfocusGPT
 ---
 
-Welcome to the DfocusGPT manual site. English content is coming soon.
+{{< rawhtml >}}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7SKBGVZ04X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);} 
+  gtag('js', new Date());
+  gtag('config', 'G-7SKBGVZ04X');
+  
+  window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
+  window.requestUrl = 'https://gpt.dfocus.net';
+</script>
+<script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
+
+{{< /rawhtml >}}
+
+{{< blocks/cover title="Subscribe to the RAG Support Bot!" image_anchor="top" >}}
+
+<div class="container-fluid py-5 text-center">
+  <div class="row">
+    <div class="col-lg-8 mx-auto">
+      <p class="lead text-white">
+        Feeling drained by tiring, repetitive tasks?
+      </p>
+      <p class="lead text-white">
+        Give customers instant answers with an AI chatbot.
+      </p>
+      <p class="lead text-white">
+        Start using <strong>DfocusGPT</strong> right away as a subscription service — easy to set up and manage.
+      </p>
+    </div>
+  </div>
+  </div>
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Docs <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT Company Bot<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://iquest.co.kr">ERP Consultation<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
+</a>
+
+
+{{< rawhtml >}}
+
+<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.4/kakao.min.js"
+  integrity="sha384-DKYJZ8NLiK8MN4/C5P2dtSmLQ4KwPaoqAfyA/DfmEc1VDxu4yyC7wy6K1Hs90nka" crossorigin="anonymous"></script>
+<script>
+  Kakao.init('e8966f18d6f93a8ef4adff2a7c6cf6b3');
+  function chatChannel() {
+    Kakao.Channel.chat({ channelPublicId: '_xjxgIxbn' });
+  }
+</script>
+
+<a id="chat-channel-button" href="javascript:chatChannel()">
+  <img src="image.png" alt="Chat on KakaoTalk Channel" />
+  </a>
+
+{{< /rawhtml >}}
+----------------
+
+{{< youtube rTwXJ2MqcRY >}}
+
+----------------
+
+<p class="lead mt-5"> Get started now — in the cloud!</p>
+{{< blocks/link-down color="info" >}}
+{{< /blocks/cover >}}
+
+
+{{% blocks/lead color="primary" %}}
+DfocusGPT gives hope to teams overwhelmed by repetitive tasks. Hand off routine questions to the chatbot and reclaim your time. With **DfocusGPT**, setup is simple and you can start using it immediately.
+
+{{% /blocks/lead %}}
+
+{{% blocks/section color="dark" type="row" %}}
+
+{{% blocks/feature icon="fa-lightbulb" title="No‑code chatbot!" %}}
+DfocusGPT requires no new coding or specialized knowledge. 
+The same person who manages your operation manuals can manage the chatbot’s knowledge, with knowledge management even easier than running a blog.
+
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-solid fa-feather" title="Manage support manuals!" url="https://botmanual.dfocus.net/docs/" %}}
+Provides easy manual management, including paste-from-web with images and bulk upload support.
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fab fa-facebook" title="Facebook updates!" url="https://www.facebook.com/DfocusSns/" %}}
+Check out more solution updates on our Facebook page.
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
+{{% blocks/section %}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  Click here for the DfocusGPT manual<i class="fab ms-2 "></i>
+</a>
+{{% /blocks/section %}}
+
+
+{{% blocks/section type="row" %}}
+
+{{% blocks/feature icon="fab fa-youtube" title="Dfocus Chatbot on YouTube!"
+    url="https://www.youtube.com/@DfocusGPT" %}}
+Explore RAG basics, how to use DfocusGPT, and real examples on our YouTube channel.
+{{% /blocks/feature %}}
+
+{{% blocks/feature title="Dfocus Chatbot KakaoTalk Channel Open!" url="http://pf.kakao.com/_xjxgIxbn" %}}
+<a href="http://pf.kakao.com/_xjxgIxbn">
+  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
+</a> Official Dfocus Chatbot channel.
+{{% /blocks/feature %}}
+
+{{% blocks/feature  title="Chat via KakaoTalk Channel" %}}
+<img src="qr-chat.png" alt="KakaoTalk Chatbot QR" width="200" height="200">
+
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
