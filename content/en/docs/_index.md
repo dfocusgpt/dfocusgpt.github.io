@@ -14,11 +14,11 @@ weight: 20
   gtag('config', 'G-7SKBGVZ04X');
 </script>
 <script>
-
   window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
   window.requestUrl = 'https://testgpt.dfocus.net';
 </script>
-<script src="https://testgpt.dfocus.net/static/remote/js/dfocus-chatbot-iframe.js"></script>
+<script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
+
 {{< /rawhtml >}}
 
 {{% pageinfo %}}

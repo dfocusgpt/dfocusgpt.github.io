@@ -18,7 +18,7 @@ weight: 20
     window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
     window.requestUrl = 'https://gpt.dfocus.net';
     </script>
-    <script src="https://gpt.dfocus.net/static/remote/js/dfocus-chatbot-iframe.js"></script>
+<script src="https://gpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
 {{< /rawhtml >}}
 
 {{% pageinfo %}}
