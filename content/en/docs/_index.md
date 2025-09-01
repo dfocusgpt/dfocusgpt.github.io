@@ -12,7 +12,7 @@ weight: 20
   function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
   gtag('config', 'G-7SKBGVZ04X');
   window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
-  window.requestUrl = 'https://gpt.dfocus.net';
+  window.requestUrl = 'https://testgpt.dfocus.net';
 </script>
 <script src="https://testgpt.dfocus.net/static/remote/js/dfocus-chatbot-iframe.js"></script>
 {{< /rawhtml >}}
