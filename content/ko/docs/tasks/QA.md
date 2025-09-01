@@ -10,7 +10,7 @@ weight: 2
 고객이 자주 물어보는 질문과 답변에 대하여 관리합니다.
 {{% /pageinfo %}}
 
-![QA 관리 화면](image.png)
+![QA 관리 화면](/docs/tasks/image.png)
 
 1. 추가 - FAQ를 추가합니다. 
 2. 수정 - FAQ를 수정합니다.
@@ -25,4 +25,4 @@ weight: 2
 2. ‘이미지를 포함한 매뉴얼’ 같은 가독성을 지니는 답변의 생성
 3. 생성형 AI의 특성인 순차적 생성 기능을 활용하여  답변 대기 시간이 거의 없이 바로 답변
 
-![FAQ 관리](image-2.png)
+![FAQ 관리](/docs/tasks/image-2.png)

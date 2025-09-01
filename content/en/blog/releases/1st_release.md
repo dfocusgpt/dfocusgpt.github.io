@@ -16,11 +16,11 @@ weight: 10
 
 ### Chatbot
 
-![image1](image.png)
+![image1](/blog/releases/image.png)
 
 ### Knowledge management
 
-![Knowledge](image-1.png)
+![Knowledge](/blog/releases/image-1.png)
 
 ### Agent handoff
 

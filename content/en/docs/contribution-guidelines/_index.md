@@ -7,8 +7,7 @@ description: Contact DfocusGPT
 {{% pageinfo %}}
 For general inquiries: gptsupport@dfocus.net
 
-For service questions, use the in-app contact menu at [DfocusGPT](https://gpt.dfocus.net/).
+For service questions, use contact form at [Dfocus homepage](https://en.dfocus.net/contact_service).
 
-For subscription inquiries, see [Shop](https://dfocusgpt.dfocus.net/).
 {{% /pageinfo %}}
 

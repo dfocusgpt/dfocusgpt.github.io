@@ -7,7 +7,7 @@ description: A brief look at the history of LLMs.
 
 In October last year, key figures in AI gathered at MIT. See the discussion: [Research on Intelligence in the Age of AI]( https://youtu.be/Gg-w_n9NJIE?t=3 ).
 
-![Deep Learning History](image.png)
+![Deep Learning History](image-1.png)
 
 ---
 ### Video overview (Korean)

@@ -16,7 +16,7 @@ When a user requests agent handoff, an agent connects automatically or manually 
 4. The user sees “Agent connected”.
 5. The agent chats with the user.
 
-![Agent console](image-1.png)
+![Agent console](/docs/tasks/image-1.png)
 
 ```mermaid
 sequenceDiagram

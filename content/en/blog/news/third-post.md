@@ -11,15 +11,22 @@ Below is a basic sequence for answering user questions with company knowledge an
 sequenceDiagram
     autonumber
     loop History
+
     User->>Chatbot: Question
-    Chatbot->>Company KB: Search
+
+    alt History exists
+        Chatbot->>Chatbot: Generate Reinforced Query (Q + History)
+    end
+
+    Chatbot->>Company KB: Search (Reinforced Q)
     Company KB->>Chatbot: Results
-    loop LLM
+    
     Chatbot->>LLM: Prompt (Q + KB + History)
     LLM->>Chatbot: Answer
-    end
-    Chatbot->>User: LLM answer + sources
+
+    Chatbot->>User: LLM answer + KB
     Note right of Chatbot: Store Q&A
+
     end
 ```
 

@@ -14,5 +14,5 @@ weight: 1
 3. Added direct link to this manual site from the chatbot.
 4. Started Kakao Business Channel support for DfocusGPT.
 
-![Release](image-2.png)
+![Release](/blog/releases/image-2.png)
 
