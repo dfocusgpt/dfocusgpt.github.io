@@ -1,11 +1,12 @@
 ---
-title: DfocusGPT
+title: DfocusGPT Global
 ---
 
 {{< rawhtml >}}
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7SKBGVZ04X"></script>
+<!-- 임시로 testgpt 로 연결, 영어 버전 test purpose -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);} 
@@ -13,7 +14,7 @@ title: DfocusGPT
   gtag('config', 'G-7SKBGVZ04X');
   
   window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
-  window.requestUrl = 'https://gpt.dfocus.net';
+  window.requestUrl = 'https://testgpt.dfocus.net';
 </script>
 <script src="https://testgpt.dfocus.net/static/chatbot-widget/js/dfocus-chatbot-load.js"></script>
 
