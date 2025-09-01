@@ -134,7 +134,7 @@ DfocusGPT 앱 - 준비중!
 
 {{% blocks/feature title="디포커스 챗봇 카카오톡 채널 오픈!" url="http://pf.kakao.com/_xjxgIxbn" %}}
 <a href="http://pf.kakao.com/_xjxgIxbn">
-  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
+  <img src="kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
 </a> 디포커스 챗봇 공식 채널입니다  
 {{% /blocks/feature %}}
 

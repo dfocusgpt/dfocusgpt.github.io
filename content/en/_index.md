@@ -120,7 +120,7 @@ Explore RAG basics, how to use DfocusGPT, and real examples on our YouTube chann
 
 {{% blocks/feature title="Dfocus Chatbot KakaoTalk Channel Open!" url="http://pf.kakao.com/_xjxgIxbn" %}}
 <a href="http://pf.kakao.com/_xjxgIxbn">
-  <img src="/static/kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
+  <img src="kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
 </a> Official Dfocus Chatbot channel.
 {{% /blocks/feature %}}
 
