@@ -11,9 +11,11 @@
       --bg: #0b1020;
       --card: #12172a;
       --text: #e7ebf3;
-      --muted: #a8b0c2;
+      --muted: #c3c9d8;
       --accent: #6ea8fe;
       --border: #243055;
+      --highlight-bg: #1a2240;
+      --highlight-text: #ffffff;
     }
     html, body { height: 100%; }
     body {
@@ -26,7 +28,7 @@
     h1 { font-size: 2.2rem; margin: 0 0 8px; letter-spacing: .2px; }
     .lede { color: var(--muted); margin: 4px 0 0; }
     .card {
-      background: rgba(18, 23, 42, 0.72);
+      background: rgba(18, 23, 42, 0.9);
       -webkit-backdrop-filter: saturate(150%) blur(6px);
       backdrop-filter: saturate(150%) blur(6px);
       border: 1px solid var(--border);
@@ -36,7 +38,7 @@
       box-shadow: 0 6px 30px rgba(0,0,0,.25);
     }
     nav.toc { position: sticky; top: 0; z-index: 1; padding: 12px 16px; border-radius: 14px;}
-    nav.toc a { color: var(--accent); text-decoration: none; }
+    nav.toc a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 2px; }
     nav.toc a:hover { text-decoration: underline; }
     nav.toc ul { margin: 6px 0 0; padding-left: 18px; }
     section { margin: 28px 0; }
@@ -45,26 +47,38 @@
     p { line-height: 1.65; color: #d9dfeb; }
     ul, ol { line-height: 1.7; }
     code.inline { background: #0c1331; padding: 2px 6px; border: 1px solid var(--border); border-radius: 6px; }
-    .notice { border-left: 4px solid var(--accent); padding: 12px 14px; background: #0f1736; border-radius: 10px; }
+    .notice { border-left: 6px solid var(--accent); padding: 14px 16px; background: #0b1f4d; color: var(--text); border-radius: 10px; font-weight: 600; }
     .muted { color: var(--muted); }
     .inline-list { display: flex; flex-wrap: wrap; gap: 8px 18px; padding-left: 0; list-style: none; }
     .divider { height: 1px; background: var(--border); margin: 24px 0; }
-    a { color: var(--accent); }
-    footer { margin-top: 48px; font-size: .95rem; color: var(--muted); }
-    .small { font-size: .95rem; }
+    a { color: var(--accent); text-decoration: underline; }
+    footer { margin-top: 48px; font-size: 1rem; color: var(--text); text-align: center; line-height: 1.6; }
+    .small { font-size: 1rem; color: var(--text); }
+    /* Ensure version history line stays readable */
+    .small.muted { color: #ffffff !important; }
     details { background: #0f1630; border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; }
-    details > summary { cursor: pointer; font-weight: 600; }
+    /* Force high-contrast summary text and custom marker */
+    details > summary { cursor: pointer; font-weight: 700; color: #ffffff !important; list-style: none; }
+    details > summary::-webkit-details-marker { display: none; }
+    details > summary::before { content: "▸ "; color: #ffffff; margin-right: 6px; }
+    details[open] > summary::before { content: "▾ "; }
+    details[open] > summary { color: #ffffff !important; }
+    /* Ensure paragraph text inside cards stays high-contrast */
+    .card > p { color: var(--text); }
     @media (prefers-color-scheme: light) {
-      :root { --bg: #f7f8fc; --card: #ffffff; --text: #0f1222; --muted: #55607a; --accent: #2557e0; --border: #dfe3f0; }
+      :root { --bg: #f7f8fc; --card: #ffffff; --text: #0f1222; --muted: #4a556f; --accent: #2557e0; --border: #dfe3f0; }
       body { background: #f7f8fc; }
       .card { background: var(--card); box-shadow: 0 6px 24px rgba(17, 28, 68, .06); }
-      .notice { background: #f1f4ff; }
+      .notice { background: #eaf0ff; color: #0f1222; }
       code.inline { background: #f4f6ff; }
+      footer { color: #0f1222; }
+      .small { color: #0f1222; }
     }
     @media print {
       body { background: #fff; color: #000; }
       .card, nav.toc, .notice { box-shadow: none; background: #fff; -webkit-backdrop-filter: none; backdrop-filter: none; }
       a { color: #000; text-decoration: underline; }
+      footer { color: #000; }
     }
   </style>
 </head>
@@ -88,7 +102,7 @@
         <li><strong>Your rights:</strong> Access, correct, delete, or restrict your data; withdraw consent; request portability.</li>
         <li><strong>Cookies:</strong> Used to personalize content and improve services. You can disable them in your browser.</li>
       </ul>
-      <p>Questions? Contact <a href="mailto:gptsupport@dfocus.net">gptsupport@dfocus.net</a>. For full details, see the full policy below.</p>
+      <p><strong>Questions?</strong> Contact <a href="mailto:gptsupport@dfocus.net">gptsupport@dfocus.net</a>. For full details, <a href="#info-we-collect">see the full policy below</a>.</p>
     </section>
 
     <!-- Table of Contents -->
@@ -150,7 +164,7 @@
       <h2>4. Sharing and Disclosure</h2>
       <p>We may share personal information with trusted third parties to provide services:</p>
       <ul>
-        <li><strong>I’mweb (I'mweb) Co., Ltd.:</strong> Hosting, mobile app, and messaging services</li>
+        <li><strong>Dfocus Co., Ltd. accounting service division:</strong> Payment processing and invoicing and refund management</li>
         <li><strong>NICEPAY PG:</strong> Payment and escrow processing</li>
       </ul>
       <p>All partners are required to handle personal data securely and in compliance with applicable laws. <strong>We never sell your personal data to third parties.</strong></p>
@@ -219,8 +233,8 @@
     <div class="divider"></div>
 
     <footer>
-      <p>&copy; <span id="y"></span> Dfocus Co., Ltd. All rights reserved.</p>
-      <p class="small">If you need a Korean version of this policy or a printable PDF, please contact <a href="mailto:gptsupport@dfocus.net">gptsupport@dfocus.net</a>.</p>
+      <p><strong>&copy; <span id="y"></span> Dfocus Co., Ltd. All rights reserved.</strong></p>
+      <p class="small"><strong>If you need a Korean version of this policy or a printable PDF, please contact <a href="mailto:gptsupport@dfocus.net">gptsupport@dfocus.net</a>.</strong></p>
     </footer>
   </div>
   <script>
@@ -229,5 +243,3 @@
   </script>
 </body>
 </html>
-
-.
