@@ -1,0 +1,4 @@
+{{- $label := .Get "label" | default "Privacy" -}}
+{{- $class := .Get "class" | default "" -}}
+<a class="{{ $class }}" href="{{ site.Params.privacy_policy }}">{{ $label }}</a>
+

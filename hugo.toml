@@ -63,6 +63,7 @@ anchor = "smart"
       description = "DfocusGPT manual page"
       time_format_default = "2006-01-02"
       time_format_blog = "2006-01-02"
+      privacy_policy = "https://botmanual.dfocus.net/privacy_full.html"
 
   [languages.ko]
     languageName = "Korean"
@@ -73,6 +74,7 @@ anchor = "smart"
       description = "DfocusGPT 매뉴얼 페이지"
       time_format_default = "2006-02-01"
       time_format_blog = "2006-01-02"
+      privacy_policy = "https://dfocusgpt.dfocus.net/?mode=privacy"
 
 [markup]
   [markup.goldmark]
@@ -93,8 +95,8 @@ anchor = "smart"
 section = ["HTML", "print", "RSS"]
 
 [params]
-#privacy_policy = "https://dfocus.net/?mode=privacy"
-privacy_policy = "https://dfocusgpt.dfocus.net/?mode=privacy"
+# privacy_policy can be overridden per language in [languages.<code>.params]
+# privacy_policy = "https://dfocusgpt.dfocus.net/?mode=privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
