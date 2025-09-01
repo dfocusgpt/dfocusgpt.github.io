@@ -3,7 +3,7 @@ title = "DfocusGPT"
 
 # Language settings
 contentDir = "content"
-defaultContentLanguage = "ko"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = false
