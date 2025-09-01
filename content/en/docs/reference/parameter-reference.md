@@ -9,5 +9,4 @@ date: 2024-01-03
 Change the text options and click Save to update the chatbot’s default phrases. Good phrasing guides users well.
 {{% /pageinfo %}}
 
-![Chatbot text settings](/en/docs/reference/image.png)
-
+![Chatbot text settings](image.png)

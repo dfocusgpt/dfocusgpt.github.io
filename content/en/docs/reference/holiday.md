@@ -12,5 +12,4 @@ The chatbot shows the agent‑handoff button only during working hours.
 1. Weekly schedule – set work hours and lunch by weekday.
 2. Holidays – configure public holidays and other days off.
 
-![Working hours](/en/docs/reference/image-1.png)
-
+![Working hours](image-1.png)

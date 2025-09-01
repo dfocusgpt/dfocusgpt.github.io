@@ -23,6 +23,5 @@ Hardware progress and model advances (e.g., Transformers) have made AI practical
 
 Press Start below!
 
-* [Getting started](/en/docs/getting-started/)
-* [Examples](/en/docs/examples/)
-
+* [Getting started]({{< relref "/docs/getting-started/" >}})
+* [Examples]({{< relref "/docs/examples/" >}})

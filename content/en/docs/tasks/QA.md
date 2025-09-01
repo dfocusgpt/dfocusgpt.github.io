@@ -10,7 +10,7 @@ weight: 2
 Manage frequently asked questions and their answers.
 {{% /pageinfo %}}
 
-![Q&A management](/en/docs/tasks/image.png)
+![Q&A management](image.png)
 
 1. Add – create an FAQ.
 2. Edit – modify an FAQ.
@@ -25,5 +25,4 @@ Manage frequently asked questions and their answers.
 2. Generate readable answers like “manuals with images”.
 3. Streaming answers minimize perceived latency.
 
-![FAQ management](/en/docs/tasks/image-2.png)
-
+![FAQ management](image-2.png)

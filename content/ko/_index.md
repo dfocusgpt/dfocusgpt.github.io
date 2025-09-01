@@ -39,7 +39,7 @@ window.requestUrl = 'https://gpt.dfocus.net';
     </div>
 </div>
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/" >}}">
   설명서 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT 기업봇<i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -115,7 +115,7 @@ DfocusGPT는 새로운 코딩 작업이나 전문 지식이 필요하지 않습�
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/" >}}">
   DfocusGPT 매뉴얼 가이드는 여기를 클릭하세요<i class="fab ms-2 "></i>
 </a>
 {{% /blocks/section %}}
@@ -146,4 +146,3 @@ DfocusGPT 앱 - 준비중!
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
-

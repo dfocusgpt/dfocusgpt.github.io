@@ -39,16 +39,18 @@ title: DfocusGPT Global
   </div>
   </div>
 
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/en/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/" >}}">
   Docs <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocus.net">IT Company Bot<i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://en.dfocus.net">IT Company Bot<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://iquest.co.kr">ERP Consultation<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
+
+<!-- 노 한국 shop for 영어 버전
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://dfocusgpt.dfocus.net">Shop<i class="fas fa-arrow-alt-circle-right ms-1"></i>
 </a>
-
+-->
 
 {{< rawhtml >}}
 
@@ -60,13 +62,15 @@ title: DfocusGPT Global
     Kakao.Channel.chat({ channelPublicId: '_xjxgIxbn' });
   }
 </script>
-
+<!-- 노 카카오 버튼 for 영어 버전
 <a id="chat-channel-button" href="javascript:chatChannel()">
   <img src="image.png" alt="Chat on KakaoTalk Channel" />
   </a>
-
+-->
 {{< /rawhtml >}}
 ----------------
+
+<==== 영어로 된 유튜브 생성한 다음 링크 하기
 
 {{< youtube rTwXJ2MqcRY >}}
 
@@ -101,7 +105,7 @@ Check out more solution updates on our Facebook page.
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/en/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="{{< relref "/docs/" >}}">
   Click here for the DfocusGPT manual<i class="fab ms-2 "></i>
 </a>
 {{% /blocks/section %}}

@@ -3,6 +3,7 @@ title: DfocusGPT User Guide
 linkTitle: Docs
 menu: {main: {weight: 20}}
 weight: 20
+aliases: ["/en/docs/"]
 ---
 
 {{< rawhtml >}}
@@ -27,5 +28,4 @@ How to use the DfocusGPT chatbot service.
 
 This site provides practical documentation for using the enterprise AI chatbot [DfocusGPT](https://gpt.dfocus.net/).
 
-Below is the guide table of contents. For other info, see [About](/en/about/) and [Blog](/en/blog/).
-
+Below is the guide table of contents. For other info, see [About]({{< relref "/about" >}}) and [Blog]({{< relref "/blog" >}}).

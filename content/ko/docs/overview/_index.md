@@ -33,6 +33,5 @@ DfocusGPT의 솔루션 중에서 챗봇 서비스는 기업용 지식 데이터�
 
 아래 시작하기를 눌러 보세요!
 
-* [시작하기](/docs/getting-started/): 챗봇 서비스를 시작하기
-* [예시](/docs/examples/): 다양한 예시들을 살펴 보세요!
-
+* [시작하기]({{< relref "/docs/getting-started/" >}}): 챗봇 서비스를 시작하기
+* [예시]({{< relref "/docs/examples/" >}}): 다양한 예시들을 살펴 보세요!
