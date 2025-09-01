@@ -9,8 +9,12 @@ weight: 20
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7SKBGVZ04X"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
+  function gtag(){dataLayer.push(arguments);} 
+  gtag('js', new Date());
   gtag('config', 'G-7SKBGVZ04X');
+</script>
+<script>
+
   window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
   window.requestUrl = 'https://testgpt.dfocus.net';
 </script>

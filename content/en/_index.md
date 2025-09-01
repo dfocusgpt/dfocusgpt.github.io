@@ -12,7 +12,8 @@ title: DfocusGPT Global
   function gtag(){dataLayer.push(arguments);} 
   gtag('js', new Date());
   gtag('config', 'G-7SKBGVZ04X');
-  
+  </script>
+<script>
   window.plugin_keys = '061ca831-72bb-417b-bb24-03185946b9be';
   window.requestUrl = 'https://testgpt.dfocus.net';
 </script>
