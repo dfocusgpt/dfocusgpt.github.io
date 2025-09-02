@@ -10,7 +10,7 @@ weight: 1
 Tooltips on each icon describe the menu items.
 {{% /pageinfo %}}
 
-![Home](/docs/tasks/image-5.png)
+![image-5.png](image-5.png)
 
 1. Logo – returns to the home screen.
 2. Calls – pending, active, and finished agent calls.
@@ -33,4 +33,4 @@ Tooltips on each icon describe the menu items.
 1. Bulk upload searchable Word documents with images; edit entries easily.
 2. Build a dedicated “manual‑style” chatbot window that renders images nicely.
 
-![FAQ management](/docs/tasks/image-2.png)
+![image-2.png](image-2.png)
