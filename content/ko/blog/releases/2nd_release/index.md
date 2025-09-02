@@ -2,7 +2,7 @@
 title: 1.0 - 두 번째 릴리즈 버전
 date: 2025-02-26
 description: >
-  DfocusGPT 챗봇의 버전 0.9의 릴리즈 정보입니다.
+  DfocusGPT 챗봇의 버전 1.0의 릴리즈 정보입니다.
 weight: 1
 ---
 
