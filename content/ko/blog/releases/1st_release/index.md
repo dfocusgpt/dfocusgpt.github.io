@@ -18,12 +18,12 @@ weight: 10
 ## 챗봇 기능 ##
 
 고객 사이트에서 챗봇을 사용하는 예시입니다.
-![image1](/blog/releases/image.png)
+![image.png](image.png)
 
 ## 지식 정보 관리 기능 ##
 
 지식정보의 관리기능을 제공합니다.
-![지식정보](/blog/releases/image-1.png)
+![image-1.png](image-1.png)
 
 ## 상담사 기능 ##
 

@@ -17,4 +17,4 @@ weight: 1
 
 
 **#2는 챗봇 응답의 가독성을, #3는 매뉴얼 홈페이지에 대한 직접적인 접근을 지원합니다.**
-![alt text](/blog/releases/image-2.png)
+![image-2.png](image-2.png)
