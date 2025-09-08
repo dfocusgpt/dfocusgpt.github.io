@@ -15,13 +15,9 @@ weight: 10
 4. Reports
 
 ### Chatbot
-
-![image.png](image.png)
-
+![alt text](image-3.png)
 ### Knowledge management
-
-![image-1.png](image-1.png)
-
+![alt text](image-2.png)
 ### Agent handoff
 
 ### Reports

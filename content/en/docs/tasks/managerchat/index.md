@@ -13,7 +13,8 @@ After organizing knowledge, test the chatbot with various questions.
 1. Left panel shows “New chat” and chat history.
 2. Type your question and press Enter or click the paper‑plane icon to start.
 3. Q&A is saved to history automatically.
-![image-3.png](image-3.png)
+![alt text](image.png)
 
 Click “More info” under an answer to see the sources referenced by the chatbot.
-![image-4.png](image-4.png)
+![alt text](image-1.png)
+

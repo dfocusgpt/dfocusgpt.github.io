@@ -10,14 +10,13 @@ weight: 2
 Manage frequently asked questions and their answers.
 {{% /pageinfo %}}
 
-![image.png](image.png)
+![alt text](image-1.png)
 
 1. Add – create an FAQ.
 2. Edit – modify an FAQ.
 3. Delete – remove an FAQ.
 4. Upload documents – see Bulk Upload.
-5. Apply to knowledge DB – index updated entries.
-6. Search – keyword matching.
+5. Search – keyword/Semantic matching.
 
 ### Intuitive and convenient Q&A management
 
@@ -25,4 +24,4 @@ Manage frequently asked questions and their answers.
 2. Generate readable answers like “manuals with images”.
 3. Streaming answers minimize perceived latency.
 
-![image-2.png](image-2.png)
+![image-2.png](image-3.png)

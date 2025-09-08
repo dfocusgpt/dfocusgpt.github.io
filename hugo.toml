@@ -64,7 +64,11 @@ anchor = "smart"
       time_format_default = "2006-01-02"
       time_format_blog = "2006-01-02"
       privacy_policy = "https://botmanual.dfocus.net/privacy_full.html"
-
+    [[languages.en.params.links.user]]
+      name = "User mailing list"
+      url = "https://en.dfocus.net/contact_service"
+      icon = "fa fa-envelope"
+      desc = "Discussion and help from your fellow users"
   [languages.ko]
     languageName = "Korean"
     contentDir = "content/ko"
@@ -75,7 +79,11 @@ anchor = "smart"
       time_format_default = "2006-02-01"
       time_format_blog = "2006-01-02"
       privacy_policy = "https://dfocusgpt.dfocus.net/?mode=privacy"
-
+    [[languages.ko.params.links.user]]
+      name = "사용자 문의"
+      url = "https://www.dfocus.net/contact_service"
+      icon = "fa fa-envelope"
+      desc = "사용자 커뮤니티와 도움말"
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser.attribute]
@@ -179,12 +187,6 @@ enable = true
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "User mailing list"
-  url = "https://www.dfocus.net/contact_service"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
-
-[[params.links.user]]
   name ="디포커스 챗봇 유튜브"
   url = "https://www.youtube.com/@DfocusGPT"
   icon = "fab fa-youtube"
@@ -204,10 +206,10 @@ enable = true
 #  desc = "Development takes place here!"
 
 [[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://www.dfocus.net/contact_service"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  name ="youtube"
+  url = "https://www.youtube.com/@DfocusGPT"
+  icon = "fab fa-youtube"
+  desc = "youtube for DfocusGPT"
 
 # hugo module configuration
 

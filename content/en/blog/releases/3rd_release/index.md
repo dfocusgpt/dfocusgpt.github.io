@@ -16,6 +16,8 @@ weight: 1
 5. Semantic search option using vector similarity in knowledge management.
 6. Added a recommended Q&A page to help generate FAQs.
 
+**2. Multilingual** - set the display language and the answer language. Display supports English and Korean; answer language is unrestricted.
+![alt text](image.png)
+
 **3. Archive option** — When satisfied with an answer, press the bookmark (#1) icon to save it. Saved answers are available anytime from the Archive (#2) icon, which opens the saved conversations list (#3).
 ![Archive](image-1.png)
-

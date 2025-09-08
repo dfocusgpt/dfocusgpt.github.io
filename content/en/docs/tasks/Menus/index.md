@@ -10,8 +10,7 @@ weight: 1
 Tooltips on each icon describe the menu items.
 {{% /pageinfo %}}
 
-![image-5.png](image-5.png)
-
+![alt text](image.png)
 1. Logo – returns to the home screen.
 2. Calls – pending, active, and finished agent calls.
 3. Notifications – async task notifications (e.g., upload complete).
@@ -22,15 +21,17 @@ Tooltips on each icon describe the menu items.
 8. Chat history – user, bot, and agent conversations.
 9. Internal messenger – chat between signed‑in agents.
 10. [Q&A Management]({{< relref "/docs/tasks/qa" >}}) – manage sources for chatbot answers.
-11. Analytics – dashboards for load, sessions by agent/category, usage details.
-12. Settings – default phrases, working hours, and embed scripts.
-13. [Chatbot testing]({{< relref "/docs/tasks/managerchat/" >}}) – test performance after entering knowledge.
-14. Inquiries – view your submitted requests.
-15. Contact – submit quick questions while using the system.
+11. Recommended QA - from bulk text typed(or copied or upload), generate some recommedded FAQ and add it into Q&A database.
+12. Analytics – dashboards for load, sessions by agent/category, usage details.
+13. Settings – default phrases, working hours, and embed scripts.
+14. [Chatbot testing]({{< relref "/docs/tasks/managerchat/" >}}) – test performance after entering knowledge.
+15. Inquiries – view your submitted requests.
+16. Contact – submit quick questions while using the system.
 
 ### Intuitive admin UI
 
 1. Bulk upload searchable Word documents with images; edit entries easily.
 2. Build a dedicated “manual‑style” chatbot window that renders images nicely.
 
-![image-2.png](image-2.png)
+![alt text](image-1.png)
+

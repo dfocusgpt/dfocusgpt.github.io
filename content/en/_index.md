@@ -70,9 +70,9 @@ title: DfocusGPT Global
 {{< /rawhtml >}}
 ----------------
 
-<==== 영어로 된 유튜브 생성한 다음 링크 하기
+[Deep dive into RAG concept and Finetuning]
 
-{{< youtube rTwXJ2MqcRY >}}
+{{< youtube ZKz_D_VWkJY >}}
 
 ----------------
 

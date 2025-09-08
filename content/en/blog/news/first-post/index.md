@@ -7,7 +7,7 @@ description: DfocusGPT leverages LLMs for everyday enterprise workflows.
 author: Jungho Lee ([@DfocusSns](https://www.facebook.com/DfocusSns))
 ---
 
-Copyright information for DfocusGPT.
+**Copyright information for DfocusGPT - Korea Copyright Commission**
 
 ![Copyright](image-1.png)
 

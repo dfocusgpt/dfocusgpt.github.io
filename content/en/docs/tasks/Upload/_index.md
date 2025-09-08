@@ -13,6 +13,6 @@ Bulk uploads must follow the required formats.
 2. Word files also follow Q/A pairs. See the Word section.
 
 After preparing the file, click “Upload Document” and select your file.
+![alt text](image-2.png)
 
-![Upload](image.png)
 

@@ -13,5 +13,4 @@ Answers vary based on the question and reference materials.
 ![ERP usage](image.png)
 
 2. Consolidated answers – gathers scattered info for concise summaries.
-![SeedAuth question](image-1.png)
-
+![alt text](image-2.png)
