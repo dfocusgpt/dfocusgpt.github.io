@@ -19,8 +19,13 @@ weight: 10
 ### Knowledge management
 ![alt text](image-2.png)
 ### Agent handoff
-
+{{< youtube PzQwbqhFyRY >}}
 ### Reports
+Chat statistics and dashboard image.
 
-Provides history analysis and evaluation.
+1. 500 responses per a day for a small ERP solution. And AI assistant won't be tired. Never!
+![alt text](image-4.png)
+2. 9 to 6 and plus alpha. 
+![alt text](image-5.png)
+
 
