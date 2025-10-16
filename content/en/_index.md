@@ -70,9 +70,9 @@ title: DfocusGPT Global
 {{< /rawhtml >}}
 ----------------
 
-[Deep dive into RAG concept and Finetuning]
+[Deep dive into RAG chatbot]
 
-{{< youtube ZKz_D_VWkJY >}}
+{{< youtube PzQwbqhFyRY >}}
 
 ----------------
 
@@ -118,15 +118,6 @@ Check out more solution updates on our Facebook page.
 Explore RAG basics, how to use DfocusGPT, and real examples on our YouTube channel.
 {{% /blocks/feature %}}
 
-{{% blocks/feature title="Dfocus Chatbot KakaoTalk Channel Open!" url="http://pf.kakao.com/_xjxgIxbn" %}}
-<a href="http://pf.kakao.com/_xjxgIxbn">
-  <img src="kakaotalk_sharing_btn_medium_ov.png" alt="kakaotalk" style="width:50px; height:auto;">
-</a> Official Dfocus Chatbot channel.
-{{% /blocks/feature %}}
 
-{{% blocks/feature  title="Chat via KakaoTalk Channel" %}}
-<img src="qr-chat.png" alt="KakaoTalk Chatbot QR" width="200" height="200">
-
-{{% /blocks/feature %}}
 
 {{% /blocks/section %}}
