@@ -21,3 +21,9 @@ weight: 1
 
 **3. Archive option** — When satisfied with an answer, press the bookmark (#1) icon to save it. Saved answers are available anytime from the Archive (#2) icon, which opens the saved conversations list (#3).
 ![Archive](image-1.png)
+
+**4. Size customization** - Per-category customization for chatbot size and button icons.
+![alt text](image-2.png)
+
+**5. Semantic Search** - Semantic search option using vector similarity in knowledge management.
+![alt text](image-3.png)
