@@ -26,13 +26,13 @@ title: DfocusGPT Global
 <div class="container-fluid py-5 text-center">
   <div class="row">
     <div class="col-lg-8 mx-auto">
-      <p class="lead text-white">
+      <p class="lead text-danger fs-1">
         Feeling drained by tiring, repetitive tasks?
       </p>
-      <p class="lead text-white">
+      <p class="lead text-white fs-2">
         Give customers instant answers with an AI chatbot.
       </p>
-      <p class="lead text-white">
+      <p class="lead text-white fs-2">
         Start using <strong>DfocusGPT</strong> right away as a subscription service — easy to set up and manage.
       </p>
     </div>
