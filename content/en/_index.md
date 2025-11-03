@@ -3,7 +3,7 @@ title: DfocusGPT Global
 ---
 
 {{< rawhtml >}}
-
+<meta name="google-site-verification" content="JiWpGMedlIA3Emf9VlRJK9B60HUaLNFAFzpXqjtTTNs" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7SKBGVZ04X"></script>
 <!-- 임시로 testgpt 로 연결, 영어 버전 test purpose -->
