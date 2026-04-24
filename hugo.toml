@@ -1,6 +1,10 @@
 baseURL = "/"
 title = "DfocusGPT"
 
+[services]
+  [services.disqus]
+    shortname = "giscus"
+
 # Language settings
 contentDir = "content"
 defaultContentLanguage = "en"
